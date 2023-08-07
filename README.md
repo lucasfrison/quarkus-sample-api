@@ -1,1 +1,1 @@
-** Ao executar, acesse /api para usar a GUI Swagger **
+* Ao executar, acesse /api para usar a GUI Swagger *
